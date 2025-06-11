@@ -12,12 +12,6 @@ Unity muster system with Firebase push notifications and PubNub real-time messag
 
 ## ⭐ Key Features
 
-
-
-
-
-
-
 - 실시간 친구 소집 시스템
 - 온라인/오프라인 상태별 알림 방식
 - Firebase 푸시 알림
