@@ -4,21 +4,21 @@ Unity muster system with Firebase push notifications and PubNub real-time messag
 
 ## 🛠 Tech Stack
 
-• Unity 2021.3+
-• C#
-• Firebase Cloud Messaging (FCM)
-• PubNub Real-time Messaging
-• UniTask
+- Unity 2021.3+
+- C#
+- Firebase Cloud Messaging (FCM)
+- PubNub Real-time Messaging
+- UniTask
 
 ## ⭐ Key Features
 
-• 실시간 친구 소집 시스템
-• 온라인/오프라인 상태별 알림 방식
-• Firebase 푸시 알림 (백그라운드)
-• PubNub 실시간 메시징 (포그라운드)
-• 친구 검색 및 정렬 시스템
-• 무한 스크롤 최적화
-• 다국어 지원 UI
+- 실시간 친구 소집 시스템
+- 온라인/오프라인 상태별 알림 방식
+- Firebase 푸시 알림 (백그라운드)
+- PubNub 실시간 메시징 (포그라운드)
+- 친구 검색 및 정렬 시스템
+- 무한 스크롤 최적화
+- 다국어 지원 UI
 
 ## 🎮 How It Works
 
